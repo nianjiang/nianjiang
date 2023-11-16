@@ -19,7 +19,7 @@ Hello :wave: :wave:
 
 Links:
 
-[GithubPage](https://nianjiang.github.io/),  [Gitee](https://jnh.gitee.io/)
+[Github.io](https://nianjiang.github.io/),  [Gitee.io](https://jnh.gitee.io/)
 
 [GithubWiki](https://github.com/nianjiang/nianjiang.github.io/wiki)
 
