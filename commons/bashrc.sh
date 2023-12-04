@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # .bashrc is used when every tab; profile is worked on every login.
 
 # golang
