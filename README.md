@@ -23,7 +23,7 @@ Links:
 
 [GithubWiki](https://github.com/nianjiang/nianjiang.github.io/wiki)
 
-[]()
+[Gists](https://gist.github.com/nianjiang)
 
 []()
 
