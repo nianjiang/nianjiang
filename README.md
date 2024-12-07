@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 Hello :wave: :wave:
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e117b668-5030-4e55-9b35-e51ef36ae922" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ...
 
 Links:
