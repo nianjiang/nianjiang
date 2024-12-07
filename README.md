@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hello :wave: :wave:
 
-![Pass CKA](./pics/cka-a.png)
+![Pass CKA](./pics/cka-200px.png)
 
 ...
 
