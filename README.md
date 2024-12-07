@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hello :wave: :wave:
 
-[Pass CKA](https://www.credly.com/badges/e117b668-5030-4e55-9b35-e51ef36ae922/public_url)
+![Pass CKA](./pics/cka.png)
 
 ...
 
